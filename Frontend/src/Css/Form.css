@@ -1,0 +1,9 @@
+.form__element{
+    display: flex;
+    gap: 12px;
+
+}
+
+.form__element input{
+    border-color: #0f0f0f;
+}
